@@ -3,19 +3,19 @@ import giftData from '@/lib/giftData'
 import GiftClient from '@/components/GiftClient'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://agiftforyouuu.vercel.app'),
-  title: 'عيد ميلاد سعيد لأحمد! 🎂',
-  description: 'رسالة عيد ميلاد خاصة لأحمد 🤍',
+  metadataBase: new URL('https://happybirthdayamna-puce.vercel.app/'),
+  title: 'happy birthday amna🎂',
+  description: 'happy birthday amna🎂',
   openGraph: {
-    title: 'عيد ميلاد سعيد لأحمد! 🎂',
-    description: 'رسالة عيد ميلاد خاصة لأحمد 🤍',
-    url: 'https://agiftforyouuu.vercel.app',
+    title: 'happy birthday amna🎂',
+    description: 'happy birthday amna🎂',
+    url: 'https://happybirthdayamna-puce.vercel.app',
     siteName: 'هدية عيد ميلاد',
     type: 'website',
     images: [
       {
-        url: 'https://agiftforyouuu.vercel.app/images/og-cat.jpg',
-        secureUrl: 'https://agiftforyouuu.vercel.app/images/og-cat.jpg',
+        url: 'https://happybirthdayamna-puce.vercel.app/images/og-cat.jpg',
+        secureUrl: 'https://happybirthdayamna-puce.vercel.app/images/og-cat.jpg',
         width: 1200,
         height: 630,
         type: 'image/jpeg',
@@ -25,9 +25,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'عيد ميلاد سعيد لأحمد! 🎂',
-    description: 'رسالة عيد ميلاد خاصة لأحمد 🤍',
-    images: ['https://agiftforyouuu.vercel.app/images/og-cat.jpg'],
+    title: 'happy birthday amna🎂',
+    description: 'happy birthday amna🎂',
+    images: ['https://happybirthdayamna-puce.vercel.app/images/og-cat.jpg'],
   },
 }
 
